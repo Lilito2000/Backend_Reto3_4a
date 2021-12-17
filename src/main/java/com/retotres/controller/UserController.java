@@ -1,7 +1,6 @@
 package com.retotres.controller;
 
 import com.retotres.model.User;
-import com.retotres.model.User;
 import com.retotres.service.UserService;
 import java.util.List;
 import java.util.Optional;
@@ -28,9 +27,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api/user")
 @CrossOrigin("*")
 public class UserController {
-    
-    // Atributo
+    //  Atributo
     @Autowired
+    /**
+     * Se instancia el repositorio de UserService.
+    **/
     private UserService userService;
 
     /**

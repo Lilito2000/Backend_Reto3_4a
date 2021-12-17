@@ -1,0 +1,16 @@
+com\retotres\controller\UserController.class
+com\retotres\RetotresApplication.class
+com\retotres\controller\OrderController.class
+com\retotres\repository\crud\ClotheCrudRepository.class
+com\retotres\service\OrderService.class
+com\retotres\service\UserService.class
+com\retotres\repository\crud\UserCrudRepository.class
+com\retotres\model\User.class
+com\retotres\repository\crud\OrderCrudRepository.class
+com\retotres\model\Clothe.class
+com\retotres\model\Order.class
+com\retotres\controller\ClotheController.class
+com\retotres\repository\ClotheRepository.class
+com\retotres\repository\UserRepository.class
+com\retotres\service\ClotheService.class
+com\retotres\repository\OrderRepository.class
